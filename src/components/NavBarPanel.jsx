@@ -14,7 +14,7 @@ function NavBar() {
         className='bg-body-tertiary'
       >
         <Container fluid>
-          <Navbar.Brand href='#'>Redux Toolkit</Navbar.Brand>
+          <Navbar.Brand href='#'>SHOPPING CART</Navbar.Brand>
           <Nav>
             <Nav.Link
               to='/'
